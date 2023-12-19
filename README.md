@@ -9,7 +9,7 @@ If you want to support more awesome keycaps and keyboards:
 
 
 ## Folder structure
-/<model file type>/<stem type>/<stem variant>/<stem tolerances>/
+/{model file type}/{stem type}/{stem variant}/{stem tolerances}/
 
 Supplied file types are STL and STEP.
 
